@@ -27,5 +27,8 @@
     height: 50px;
     width: 320px;
     background-color: aqua;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 40px;
 }
 
