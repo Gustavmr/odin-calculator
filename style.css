@@ -12,7 +12,7 @@
     width: 320px;
 }
 
-.button {
+.button, .Equals, .Clear, .bOps {
     flex: 1;
     display: flex;
     justify-content: center;
